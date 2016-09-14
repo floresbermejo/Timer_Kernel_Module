@@ -1,4 +1,3 @@
-
 #----------------------------------------------------------#
 #   Makefile para Timer Module (timer.c)                   #
 #   Ejecutar con comando:		                   #
